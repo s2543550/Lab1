@@ -36,8 +36,7 @@ _Create a frequency table of the number of tourist attractions in the data set b
 
 ```{r Ex_a}
 # Delete the comment '#' symbol at the start of the next line and complete the code. 
-
-#visitors %>% count(_____)
+attraction %>% count(region)
 ```
 
 ### Exercise b.
